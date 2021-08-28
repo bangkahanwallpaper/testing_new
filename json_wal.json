@@ -93,7 +93,7 @@
       "unity_interstitial":"Android_Interstitial",
       "unity_banner":"Android_Banner",
 	  "intervalsetpp":0,
-      "interval":0
+      "interval":3
       }
    ]
 }
